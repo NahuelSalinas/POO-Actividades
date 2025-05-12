@@ -1,7 +1,7 @@
 # POO-Actividades
-En este repositorio se encuentran las actividades prácticas de la materia Programación Orientada a Objetos. 
-**Alumno:** Hugo Nahuel Salinas
-**Año:** 2°
-**Comisión:** B
-**Instituto:** INCADE
-**Año:** 2025
+En este repositorio se encuentran las actividades prácticas de la materia Programación Orientada a Objetos. \n
+**Alumno:** Hugo Nahuel Salinas \n
+**Año:** 2° \n
+**Comisión:** B \n
+**Instituto:** INCADE \n
+**Año:** 2025 \n
